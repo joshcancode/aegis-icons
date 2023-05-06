@@ -146,6 +146,14 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Akamai Connected Cloud.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Akamai Connected Cloud",
+                "Linode"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Algolia.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -373,6 +381,14 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Battlestate Games.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Battlestate Games",
+                "Escape from Tarkov"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Best Buy.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -419,6 +435,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Binance"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/BingX.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "BingX"
             ]
         },
         {
@@ -675,6 +698,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Borlabs.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Borlabs"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Box.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -693,6 +723,21 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Brave"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Braze.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Braze"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/British Computer Society.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "British Computer Society",
+                "BCS"
             ]
         },
         {
@@ -1104,6 +1149,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Cronometer.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Cronometer"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/CrossBox.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -1256,6 +1308,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Deribit"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Derpibooru.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Derpibooru"
             ]
         },
         {
@@ -1582,6 +1641,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Fakturoid.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Fakturoid"
+            ]
+        },
+        { 
             "filename": "icons/1_Primary/FanDuel.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -1593,6 +1659,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Fanatical"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Fandom.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Fandom"
             ]
         },
         {
@@ -1801,6 +1874,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/GOV.BR.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "GOV.BR"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/GOV.UK.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -1839,7 +1919,8 @@
             "filename": "icons/1_Primary/Gate.io.svg",
             "category": "1. Apps & Sites",
             "issuer": [
-                "Gate.io"
+                "Gate.io",
+                "Gate.us"
             ]
         },
         {
@@ -1953,6 +2034,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Grammarly"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Grav.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Grav"
             ]
         },
         {
@@ -2079,6 +2167,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Handshake"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/HashiCorp.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "HashiCorp"
             ]
         },
         {
@@ -2468,6 +2563,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Jottacloud.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Jottacloud"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Justworks.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -2657,10 +2759,24 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Lark.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Lark"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/LastPass.svg",
             "category": "1. Apps & Sites",
             "issuer": [
                 "LastPass"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Leantime.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Leantime"
             ]
         },
         {
@@ -2738,6 +2854,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Localbitcoins"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Logitech.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Logitech"
             ]
         },
         {
@@ -3256,6 +3379,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Nifty Gateway.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Nifty Gateway"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Nimbus Note.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -3305,6 +3435,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Northflank.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Northflank"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Norton.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -3330,6 +3467,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Notesnook"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Notion.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Notion"
             ]
         },
         {
@@ -3915,6 +4059,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Qiita.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Qiita"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Qloud.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -3992,6 +4143,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Raindrop.io.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Raindrop.io"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Rakuten.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -4031,6 +4189,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Reddit"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Regery.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Regery"
             ]
         },
         {
@@ -4188,6 +4353,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/SAPO.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "SAPO"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/SOGo.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -4333,6 +4505,13 @@
             "category": "1. Apps & Sites",
             "issuer": [
                 "Sendy"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/SentinelOne.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "SentinelOne"
             ]
         },
         {
@@ -4958,6 +5137,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/True Wealth.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "True Wealth"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/TrueNAS.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5375,6 +5561,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Well.ca.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "Well.ca"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Wellfound.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5713,6 +5906,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/ente.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "ente"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/fileee.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5846,6 +6046,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/redirect.pizza.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "redirect.pizza"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/sipgate.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5874,6 +6081,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/vorsorgestiftung vsao.svg",
+            "category": "1. Apps & Sites",
+            "issuer": [
+                "vorsorgestiftung vsao"
+            ]
+        },
+        { 
             "filename": "icons/1_Primary/woelkli.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5978,6 +6192,13 @@
             "category": "2. Variations & Alts",
             "issuer": [
                 "Bitso"
+            ]
+        },
+        {
+            "filename": "icons/2_Variations/Braze bg.var.svg",
+            "category": "2. Variations & Alts",
+            "issuer": [
+                "Braze"
             ]
         },
         {
@@ -6143,6 +6364,13 @@
             ]
         },
         {
+            "filename": "icons/2_Variations/HashiCorp bg.var.svg",
+            "category": "2. Variations & Alts",
+            "issuer": [
+                "HashiCorp"
+            ]
+        },
+        {
             "filename": "icons/2_Variations/HelpSpot bg.var.svg",
             "category": "2. Variations & Alts",
             "issuer": [
@@ -6297,6 +6525,13 @@
             ]
         },
         {
+            "filename": "icons/2_Variations/Nifty Gateway bg.var.svg",
+            "category": "2. Variations & Alts",
+            "issuer": [
+                "Nifty Gateway"
+            ]
+        },
+        {
             "filename": "icons/2_Variations/Nitrado fg.var.svg",
             "category": "2. Variations & Alts",
             "issuer": [
@@ -6315,6 +6550,13 @@
             "category": "2. Variations & Alts",
             "issuer": [
                 "NotABug.org"
+            ]
+        },
+        {
+            "filename": "icons/2_Variations/Notion bg.var.svg",
+            "category": "2. Variations & Alts",
+            "issuer": [
+                "Notion"
             ]
         },
         {
@@ -6689,6 +6931,13 @@
             "category": "2. Variations & Alts",
             "issuer": [
                 "diaspora"
+            ]
+        },
+        {
+            "filename": "icons/2_Variations/ente bg.var.svg",
+            "category": "2. Variations & Alts",
+            "issuer": [
+                "ente"
             ]
         },
         {
@@ -7268,6 +7517,14 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/Gate.io v1.svg",
+            "category": "4. Outdated",
+            "issuer": [
+                "Gate.io",
+                "Gate.us"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/GitLab v1.svg",
             "category": "4. Outdated",
             "issuer": [
@@ -7328,6 +7585,14 @@
             "category": "4. Outdated",
             "issuer": [
                 "Justworks"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/Linode.svg",
+            "category": "4. Outdated",
+            "issuer": [
+                "Akamai Connected Cloud", 
+                "Linode"
             ]
         },
         {
